@@ -18,7 +18,7 @@ form #only {
   border: none;
   border-radius: 5px;
   outline: none;
-  background-color: rgb(228, 222, 222);;
+  background-color: rgb(228, 222, 222);
 }
 form #btn {
   background-color: #1c07ff;
@@ -66,4 +66,7 @@ form #btn {
   padding: 10px 20px;
   color: white;
   cursor: pointer;
+  width: 150px;
+  text-align: center;
+  visibility: hidden;
 }
